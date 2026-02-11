@@ -1,0 +1,166 @@
+sample,project,condition,rep,ALE,Media Base,Carbon Source,Nitrogen Source,Trace Element Mixture,Supplement,Electron Acceptor,Temp.,pH
+BOP27(4gL Acetate)R1,patel,BOP27(4gL Acetate),1,F,M9,acetate(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+BOP27(4gL Acetate)R2,patel,BOP27(4gL Acetate),2,F,M9,acetate(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+"BOP27(4gLglucose, 5mM methionine)R1",patel,"BOP27(4gLglucose, 5mM methionine)",1,F,M9,glucose(4),NH4Cl(1),Sauer TE mixture,Methionine (5mM),O2,37,7
+"BOP27(4gLglucose, 5mM methionine)R2",patel,"BOP27(4gLglucose, 5mM methionine)",2,F,M9,glucose(4),NH4Cl(1),Sauer TE mixture,Methionine (5mM),O2,37,7
+"BOP27(4gLglucose, W2, 2gL cytidine)R1",patel,"BOP27(4gLglucose, W2, 2gL cytidine)",1,F,W2,glucose(4),cytidine(2),,,O2,37,7
+"BOP27(4gLglucose, W2, 2gL cytidine)R2",patel,"BOP27(4gLglucose, W2, 2gL cytidine)",2,F,W2,glucose(4),cytidine(2),,,O2,37,7
+"BOP27(4glglucose, W2, 2gl glutamine)R1",patel,"BOP27(4glglucose, W2, 2gl glutamine)",1,F,W2,glucose(4),glutamine(2),,,O2,37,7
+"BOP27(4glglucose, W2, 2gl glutamine)R2",patel,"BOP27(4glglucose, W2, 2gl glutamine)",2,F,W2,glucose(4),glutamine(2),,,O2,37,7
+BOP27(W2wCytosine)R1,patel,BOP27(W2wCytosine),1,F,W2,glucose(4),cytosine(2),,,O2,37,7
+BOP27(W2wCytosine)R2,patel,BOP27(W2wCytosine),2,F,W2,glucose(4),cytosine(2),,,O2,37,7
+BOP27(Galactose)R1,patel,BOP27(Galactose),1,F,M9,galactose(4),NH4Cl(1),Sauer TE mixture,thiamine (1.4mM),O2,37,7
+BOP27(Galactose)R2,patel,BOP27(Galactose),2,F,M9,galactose(4),NH4Cl(1),Sauer TE mixture,thiamine (1.4mM),O2,37,7
+"BOP27(4gl glucose, M9)R1",patel,"BOP27(4gl glucose, M9)",1,F,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+"BOP27(4gl glucose, M9)R2",patel,"BOP27(4gl glucose, M9)",2,F,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+BOP27(4glglucose_NoTE_wDPD)R1,patel,BOP27(4glglucose_NoTE_wDPD),1,F,M9,glucose(4),NH4Cl(1),,DPD (0.2mM),O2,37,7
+BOP27(4glglucose_NoTE_wDPD)R2,patel,BOP27(4glglucose_NoTE_wDPD),2,F,M9,glucose(4),NH4Cl(1),,DPD (0.2mM),O2,37,7
+BOP27(Acetylglucosamine)R1,patel,BOP27(Acetylglucosamine),1,F,M9,N-acetylglucosamine(4),NH4Cl(1),Sauer TE mixture,Phenylalanine(5mM),O2,37,7
+BOP27(Acetylglucosamine)R2,patel,BOP27(Acetylglucosamine),2,F,M9,N-acetylglucosamine(4),NH4Cl(1),Sauer TE mixture,Phenylalanine(5mM),O2,37,7
+BOP27(Fruc)R1,patel,BOP27(Fruc),1,F,M9,fructose(2),NH4Cl(1),Sauer TE mixture,,O2,37,7
+BOP27(Fruc)R2,patel,BOP27(Fruc),2,F,M9,fructose(2),NH4Cl(1),Sauer TE mixture,,O2,37,7
+BOP27(Fumarate)R1,patel,BOP27(Fumarate),1,F,M9,fumarate(2.8),NH4Cl(1),Sauer TE mixture,thiamine (1.4mM),O2,37,7
+BOP27(Fumarate)R2,patel,BOP27(Fumarate),2,F,M9,fumarate(2.8),NH4Cl(1),Sauer TE mixture,thiamine (1.4mM),O2,37,7
+BOP27(Glucarate)R1,patel,BOP27(Glucarate),1,F,M9,glucarate(4),NH4Cl(1),Sauer TE mixture,Leucine (10mM),O2,37,7
+BOP27(Glucarate)R2,patel,BOP27(Glucarate),2,F,M9,glucarate(4),NH4Cl(1),Sauer TE mixture,Leucine (10mM),O2,37,7
+BOP27(Glucose wPQ)R1,patel,BOP27(Glucose wPQ),1,F,M9,glucose(4),NH4Cl(1),,paraquat (250uM),O2,37,7
+BOP27(Glucose wPQ)R2,patel,BOP27(Glucose wPQ),2,F,M9,glucose(4),NH4Cl(1),,paraquat (250uM),O2,37,7
+BOP27(LB)R1,patel,BOP27(LB),1,F,LB,,,,,O2,37,7
+BOP27(LB)R2,patel,BOP27(LB),2,F,LB,,,,,O2,37,7
+BOP27(Pyruvate)R1,patel,BOP27(Pyruvate),1,F,M9,pyruvate(3.3),NH4Cl(1),Sauer TE mixture,thiamine (1.4mM),O2,37,7
+BOP27(Pyruvate)R2,patel,BOP27(Pyruvate),2,F,M9,pyruvate(3.3),NH4Cl(1),Sauer TE mixture,thiamine (1.4mM),O2,37,7
+BOP27(Sorbitol)R1,patel,BOP27(Sorbitol),1,F,M9,sorbitol(4),NH4Cl(1),Sauer TE mixture,L-arginine (5.75mM),O2,37,7
+BOP27(Sorbitol)R2,patel,BOP27(Sorbitol),2,F,M9,sorbitol(4),NH4Cl(1),Sauer TE mixture,L-arginine (5.75mM),O2,37,7
+BOP27(pH5.5)R1,patel,BOP27(pH5.5),1,F,M9,glucose(4),NH4Cl(1),,,O2,37,5.5
+BOP27(pH5.5)R2,patel,BOP27(pH5.5),2,F,M9,glucose(4),NH4Cl(1),,,O2,37,5.5
+CRPAR1 B1,patel,CRPAR1,1,F,M9,glycerol(2),NH4Cl(1),Sauer TE mixture,,O2,37,7
+CRPAR1 B2,patel,CRPAR1,2,F,M9,glycerol(2),NH4Cl(1),Sauer TE mixture,,O2,37,7
+CRPAR1AR2 B1,patel,CRPAR1AR2,1,F,M9,glycerol(2),NH4Cl(1),Sauer TE mixture,,O2,37,7
+CRPAR1AR2 B2,patel,CRPAR1AR2,2,F,M9,glycerol(2),NH4Cl(1),Sauer TE mixture,,O2,37,7
+CRPAR2 B1,patel,CRPAR2,1,F,M9,glycerol(2),NH4Cl(1),Sauer TE mixture,,O2,37,7
+CRPAR2 B2,patel,CRPAR2,2,F,M9,glycerol(2),NH4Cl(1),Sauer TE mixture,,O2,37,7
+Del-Cra_Acetate R1,patel,Del-Cra_Acetate,1,F,M9,acetate(2),NH4Cl(1),Sauer TE mixture,,O2,37,7
+Del-Cra_Acetate R2,patel,Del-Cra_Acetate,2,F,M9,acetate(2),NH4Cl(1),Sauer TE mixture,,O2,37,7
+RPOBE546V(Glucose)R1,patel,RPOBE546V(Glucose),1,F,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+RPOBE546V(Glucose)R2,patel,RPOBE546V(Glucose),2,F,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+RPOBE546V(LB)R1,patel,RPOBE546V(LB),1,F,LB,,,,,O2,37,7
+RPOBE546V(LB)R2,patel,RPOBE546V(LB),2,F,LB,,,,,O2,37,7
+RPOBE672K(Glucose)R1,patel,RPOBE672K(Glucose),1,F,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+RPOBE672K(Glucose)R2,patel,RPOBE672K(Glucose),2,F,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+RPOBE672K(LB)R1,patel,RPOBE672K(LB),1,F,LB,,,,,O2,37,7
+RPOBE672K(LB)R2,patel,RPOBE672K(LB),2,F,LB,,,,,O2,37,7
+pgi1R1,patel,pgi1,1,F,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+pgi1R3,patel,pgi1,2,F,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+del-cra glucose R1,patel,del-cra glucose,1,F,M9,glucose(2),NH4Cl(1),Sauer TE mixture,,O2,37,7
+del-cra glucose R2,patel,del-cra glucose,2,F,M9,glucose(2),NH4Cl(1),Sauer TE mixture,,O2,37,7
+del-cra(Fructose)R1,patel,del-cra(Fructose),1,F,M9,fructose(2),NH4Cl(1),Sauer TE mixture,,O2,37,7
+del-cra(Fructose)R2,patel,del-cra(Fructose),2,F,M9,fructose(2),NH4Cl(1),Sauer TE mixture,,O2,37,7
+del-crp glucose R1,patel,del-crp glucose,1,F,M9,glucose(2),NH4Cl(1),Sauer TE mixture,,O2,37,7
+del-crp glucose R2,patel,del-crp glucose,2,F,M9,glucose(2),NH4Cl(1),Sauer TE mixture,,O2,37,7
+del-crp glycerol R1,patel,del-crp glycerol,1,F,M9,glycerol(2),NH4Cl(1),Sauer TE mixture,,O2,37,7
+del-crp glycerol R2,patel,del-crp glycerol,2,F,M9,glycerol(2),NH4Cl(1),Sauer TE mixture,,O2,37,7
+evo04R1,patel,evo04,1,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+evo06R3,patel,evo06,2,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+hot_tale_hot_ale3_30C__3_228_30C__PnPR1,patel2,hot_tale_hot_ale3_30C__3_228_30C__PnP,1,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,30,7
+hot_tale_hot_ale3_30C__3_228_30C__PnPR2,patel2,hot_tale_hot_ale3_30C__3_228_30C__PnP,2,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,30,7
+hot_tale_hot_ale3_37C__3_228_37C__PnPR1,patel2,hot_tale_hot_ale3_37C__3_228_37C__PnP,1,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+hot_tale_hot_ale3_37C__3_228_37C__PnPR2,patel2,hot_tale_hot_ale3_37C__3_228_37C__PnP,2,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+hot_tale_hot_ale3_44C__3_228_44C__PnPR1,patel2,hot_tale_hot_ale3_44C__3_228_44C__PnP,1,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,44,7
+hot_tale_hot_ale3_44C__3_228_44C__PnPR2,patel2,hot_tale_hot_ale3_44C__3_228_44C__PnP,2,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,44,7
+hot_tale_hot_ale3_mid_30C__3_181_30C__PnPR1,patel2,hot_tale_hot_ale3_mid_30C__3_181_30C__PnP,1,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,30,7
+hot_tale_hot_ale3_mid_30C__3_181_30C__PnPR2,patel2,hot_tale_hot_ale3_mid_30C__3_181_30C__PnP,2,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,30,7
+hot_tale_hot_ale3_mid_37C__3_181_37C__PnPR1,patel2,hot_tale_hot_ale3_mid_37C__3_181_37C__PnP,1,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+hot_tale_hot_ale3_mid_37C__3_181_37C__PnPR2,patel2,hot_tale_hot_ale3_mid_37C__3_181_37C__PnP,2,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+hot_tale_hot_ale3_mid_44C__3_181_44C__PnPR1,patel2,hot_tale_hot_ale3_mid_44C__3_181_44C__PnP,1,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,44,7
+hot_tale_hot_ale3_mid_44C__3_181_44C__PnPR2,patel2,hot_tale_hot_ale3_mid_44C__3_181_44C__PnP,2,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,44,7
+ros_tale_7_103_0pq__PnPR1,patel2,ros_tale_7_103_0pq__PnP,1,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+ros_tale_7_103_0pq__PnPR2,patel2,ros_tale_7_103_0pq__PnP,2,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+ros_tale_7_103_250pq__PnPR1,patel2,ros_tale_7_103_250pq__PnP,1,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,paraquat (250uM),O2,37,7
+ros_tale_7_103_250pq__PnPR2,patel2,ros_tale_7_103_250pq__PnP,2,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,paraquat (250uM),O2,37,7
+ros_tale_7_103_750pq__PnPR1,patel2,ros_tale_7_103_750pq__PnP,1,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,paraquat (750uM),O2,37,7
+ros_tale_7_103_750pq__PnPR2,patel2,ros_tale_7_103_750pq__PnP,2,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,paraquat (750uM),O2,37,7
+tcs_del_baeR_etoh__PnPR1,patel2,tcs_del_baeR_etoh__PnP,1,F,LB,,,,Ethanol(5%w/v),O2,37,7
+tcs_del_baeR_etoh__PnPR2,patel2,tcs_del_baeR_etoh__PnP,2,F,LB,,,,Ethanol(5%w/v),O2,37,7
+tcs_del_phoB_m9__PnPR1,patel2,tcs_del_phoB_m9__PnP,1,F,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+tcs_del_phoB_m9__PnPR2,patel2,tcs_del_phoB_m9__PnP,2,F,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+tcs_del_phoB_m9p__PnPR1,patel2,tcs_del_phoB_m9p__PnP,1,F,M9P,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+tcs_del_phoB_m9p__PnPR2,patel2,tcs_del_phoB_m9p__PnP,2,F,M9P,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+tcs_del_rcsB_etoh__PnPR1,patel2,tcs_del_rcsB_etoh__PnP,1,F,LB,,,,Ethanol(5%w/v),O2,37,7
+tcs_del_rcsB_etoh__PnPR2,patel2,tcs_del_rcsB_etoh__PnP,2,F,LB,,,,Ethanol(5%w/v),O2,37,7
+tcs_wt_CuSO4__PnPR1,patel2,tcs_wt_CuSO4__PnP,1,F,LB,,,,CuSO4(0.5mM),O2,37,7
+tcs_wt_CuSO4__PnPR2,patel2,tcs_wt_CuSO4__PnP,2,F,LB,,,,CuSO4(0.5mM),O2,37,7
+tcs_wt_lb__PnPR1,patel2,tcs_wt_lb__PnP,1,F,LB,,,,,O2,37,7
+tcs_wt_lb__PnPR2,patel2,tcs_wt_lb__PnP,2,F,LB,,,,,O2,37,7
+glu_glu_ale4__glu_403_13__PnPR1,patel2,glu_glu_ale4__glu_403_13__PnP,1,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+glu_glu_ale4__glu_403_13__PnPR2,patel2,glu_glu_ale4__glu_403_13__PnP,2,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+TCS_WT_etoh__PnPR1,patel2,TCS_WT_etoh__PnP,1,F,LB,,,,Ethanol(5%w/v),O2,37,7
+TCS_WT_etoh__PnPR2,patel2,TCS_WT_etoh__PnP,2,F,LB,,,,Ethanol(5%w/v),O2,37,7
+WT_42C__PnPR1,patel2,WT_42C__PnP,1,F,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,42,7
+WT_42C__PnPR2,patel2,WT_42C__PnP,2,F,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,42,7
+heckmann_Acetate1_B1,heckmann,Acetate1,1,T,M9,acetate(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_Acetate1_B2,heckmann,Acetate1,2,T,M9,acetate(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_Acetate2_B1,heckmann,Acetate2,1,T,M9,acetate(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_Acetate2_B2,heckmann,Acetate2,2,T,M9,acetate(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_Acetate3_B1,heckmann,Acetate3,1,T,M9,acetate(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_Acetate3_B2,heckmann,Acetate3,2,T,M9,acetate(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_BOP122_B2,heckmann,BOP122,1,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_C13_A1_B2,heckmann,C13_A1,2,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_C13_A3_B1,heckmann,C13_A3,1,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_C13_A3_B2,heckmann,C13_A3,2,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_EVO1_B1,heckmann,EVO1,1,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_EVO1_B2,heckmann,EVO1,2,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_EVO2_B1,heckmann,EVO2,1,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_EVO2_B2,heckmann,EVO2,2,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_GLU_A10_B1,heckmann,GLU_A10,1,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_GLU_A10_B2,heckmann,GLU_A10,2,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_GLU_A4_B1,heckmann,GLU_A4,1,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_GLU_A4_B2,heckmann,GLU_A4,2,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_GLU_A6_B1,heckmann,GLU_A6,1,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_GLU_A6_B2,heckmann,GLU_A6,2,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_GLU_A8_B1,heckmann,GLU_A8,1,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_GLU_A8_B2,heckmann,GLU_A8,2,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_Glycerol1_B2,heckmann,Glycerol1,1,T,M9,glycerol(2),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_Glycerol2_B1,heckmann,Glycerol2,1,T,M9,glycerol(2),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_Glycerol2_B2,heckmann,Glycerol2,2,T,M9,glycerol(2),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_Xylose1_B1,heckmann,Xylose1,1,T,M9,xylose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_Xylose1_B2,heckmann,Xylose1,2,T,M9,xylose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_Xylose2_B1,heckmann,Xylose2,1,T,M9,xylose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_Xylose2_B2,heckmann,Xylose2,2,T,M9,xylose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_Xylose3_B1,heckmann,Xylose3,1,T,M9,xylose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_Xylose3_B2,heckmann,Xylose3,2,T,M9,xylose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_Xylose4_B1,heckmann,Xylose4,1,T,M9,xylose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_Xylose4_B2,heckmann,Xylose4,2,T,M9,xylose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_pgiEVO1_B1,heckmann,pgiEVO1,1,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_pgiEVO1_B2,heckmann,pgiEVO1,2,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_pgiEVO2_B1,heckmann,pgiEVO2,1,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_pgiEVO2_B2,heckmann,pgiEVO2,2,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_pgiEVO3_B1,heckmann,pgiEVO3,1,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_pgiEVO3_B2,heckmann,pgiEVO3,2,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_pgiEVO4_B1,heckmann,pgiEVO4,1,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_pgiEVO4_B2,heckmann,pgiEVO4,2,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_pgiEVO5_B1,heckmann,pgiEVO5,1,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_pgiEVO5_B2,heckmann,pgiEVO5,2,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_pgiEVO6_B1,heckmann,pgiEVO6,1,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_pgiEVO6_B2,heckmann,pgiEVO6,2,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_pgiEVO7_B1,heckmann,pgiEVO7,1,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_pgiEVO7_B2,heckmann,pgiEVO7,2,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_ptsEvo1_B1,heckmann,ptsEvo1,1,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_ptsEvo1_B2,heckmann,ptsEvo1,2,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_ptsEvo2_B1,heckmann,ptsEvo2,1,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_ptsEvo2_B2,heckmann,ptsEvo2,2,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_ptsEvo3_B1,heckmann,ptsEvo3,1,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_ptsEvo3_B2,heckmann,ptsEvo3,2,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_ptsEvo4_B1,heckmann,ptsEvo4,1,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_ptsEvo4_B2,heckmann,ptsEvo4,2,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_sdhEvo1_B1,heckmann,sdhEvo1,1,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_sdhEvo1_B2,heckmann,sdhEvo1,2,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_sdhEvo2_B1,heckmann,sdhEvo2,1,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_sdhEvo2_B2,heckmann,sdhEvo2,2,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_sdhEvo3_B1,heckmann,sdhEvo3,1,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_sdhEvo3_B2,heckmann,sdhEvo3,2,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_tpiEvo2_B1,heckmann,tpiEvo2,1,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_tpiEvo2_B2,heckmann,tpiEvo2,2,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_tpiEvo3_B1,heckmann,tpiEvo3,1,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_tpiEvo3_B2,heckmann,tpiEvo3,2,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_tpiEvo4_B1,heckmann,tpiEvo4,1,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
+heckmann_tpiEvo4_B2,heckmann,tpiEvo4,2,T,M9,glucose(4),NH4Cl(1),Sauer TE mixture,,O2,37,7
