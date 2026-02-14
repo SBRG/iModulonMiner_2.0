@@ -1,0 +1,8 @@
+Shared iModulons between E. coli and P. putida (matching by name with optional trailing -1/-2 removed):
+
+- Acetate: E. coli [Acetate]; P. putida [Acetate]
+- FliA: E. coli [FliA]; P. putida [FliA]
+- OxyR: E. coli [OxyR]; P. putida [OxyR]
+- Putrescine: E. coli [Putrescine]; P. putida [Putrescine]
+- Translation: E. coli [Translation]; P. putida [Translation]
+- Zinc: E. coli [Zinc-1, Zinc-2]; P. putida [Zinc]
