@@ -1,0 +1,3170 @@
+
+
+##################################
+# Computing dimension 100 of 300 #
+##################################
+
+Setting up...
+1.54 seconds elapsed
+
+Running ICA...
+
+Completed run 1 of 2 on Processor 24
+29.42 seconds elapsed
+
+Completed run 1 of 1 on Processor 37
+35.61 seconds elapsed
+
+Completed run 1 of 2 on Processor 6
+37.22 seconds elapsed
+
+Completed run 1 of 1 on Processor 63
+37.91 seconds elapsed
+
+Completed run 1 of 1 on Processor 59
+38.12 seconds elapsed
+
+Completed run 1 of 2 on Processor 21
+38.32 seconds elapsed
+
+Completed run 1 of 2 on Processor 32
+38.48 seconds elapsed
+
+Completed run 1 of 1 on Processor 54
+38.95 seconds elapsed
+
+Completed run 1 of 1 on Processor 40
+41.17 seconds elapsed
+
+Completed run 1 of 2 on Processor 20
+41.18 seconds elapsed
+
+Completed run 1 of 1 on Processor 52
+41.28 seconds elapsed
+
+Completed run 1 of 1 on Processor 39
+42.26 seconds elapsed
+
+Completed run 1 of 2 on Processor 18
+43.21 seconds elapsed
+
+Completed run 1 of 2 on Processor 14
+44.11 seconds elapsed
+
+Completed run 1 of 1 on Processor 51
+44.59 seconds elapsed
+
+Completed run 1 of 1 on Processor 36
+44.85 seconds elapsed
+
+Completed run 1 of 2 on Processor 4
+48.03 seconds elapsed
+
+Completed run 1 of 1 on Processor 49
+48.05 seconds elapsed
+
+Completed run 1 of 1 on Processor 58
+48.15 seconds elapsed
+
+Completed run 1 of 1 on Processor 46
+51.28 seconds elapsed
+
+Completed run 1 of 2 on Processor 26
+52.63 seconds elapsed
+
+Completed run 1 of 1 on Processor 41
+52.66 seconds elapsed
+
+Completed run 1 of 1 on Processor 44
+52.98 seconds elapsed
+
+Completed run 1 of 1 on Processor 55
+55.23 seconds elapsed
+
+Completed run 2 of 2 on Processor 24
+26.28 seconds elapsed
+
+Completed run 1 of 1 on Processor 38
+55.82 seconds elapsed
+
+Completed run 2 of 2 on Processor 20
+15.18 seconds elapsed
+
+Completed run 1 of 2 on Processor 7
+56.58 seconds elapsed
+
+Completed run 1 of 2 on Processor 33
+57.10 seconds elapsed
+
+Completed run 1 of 2 on Processor 19
+57.39 seconds elapsed
+
+Completed run 1 of 1 on Processor 43
+57.54 seconds elapsed
+
+Completed run 1 of 2 on Processor 17
+58.04 seconds elapsed
+
+Completed run 1 of 1 on Processor 47
+58.33 seconds elapsed
+
+Completed run 1 of 1 on Processor 61
+58.38 seconds elapsed
+
+Completed run 1 of 2 on Processor 16
+58.52 seconds elapsed
+
+Completed run 1 of 2 on Processor 3
+59.80 seconds elapsed
+
+Completed run 1 of 1 on Processor 56
+1.01 minutes elapsed
+
+Completed run 1 of 2 on Processor 29
+1.01 minutes elapsed
+
+Completed run 1 of 1 on Processor 45
+1.03 minutes elapsed
+
+Completed run 1 of 2 on Processor 8
+1.03 minutes elapsed
+
+Completed run 1 of 2 on Processor 1
+1.04 minutes elapsed
+
+Completed run 1 of 2 on Processor 28
+1.05 minutes elapsed
+
+Completed run 1 of 2 on Processor 35
+1.07 minutes elapsed
+
+Completed run 1 of 2 on Processor 12
+1.08 minutes elapsed
+
+Completed run 1 of 1 on Processor 50
+1.08 minutes elapsed
+
+Completed run 2 of 2 on Processor 6
+29.11 seconds elapsed
+
+Completed run 1 of 2 on Processor 15
+1.12 minutes elapsed
+
+Completed run 1 of 2 on Processor 13
+1.15 minutes elapsed
+
+Completed run 1 of 2 on Processor 9
+1.15 minutes elapsed
+
+Completed run 1 of 1 on Processor 62
+1.19 minutes elapsed
+
+Completed run 1 of 2 on Processor 22
+1.19 minutes elapsed
+
+Completed run 1 of 2 on Processor 34
+1.20 minutes elapsed
+
+Completed run 1 of 1 on Processor 42
+1.23 minutes elapsed
+
+Completed run 1 of 2 on Processor 0
+1.21 minutes elapsed
+
+Completed run 1 of 1 on Processor 57
+1.24 minutes elapsed
+
+Completed run 2 of 2 on Processor 14
+30.58 seconds elapsed
+
+Completed run 1 of 1 on Processor 48
+1.25 minutes elapsed
+
+Completed run 1 of 1 on Processor 53
+1.31 minutes elapsed
+
+Completed run 1 of 2 on Processor 23
+1.32 minutes elapsed
+
+Completed run 1 of 2 on Processor 27
+1.32 minutes elapsed
+
+Completed run 1 of 2 on Processor 10
+1.33 minutes elapsed
+
+Completed run 1 of 1 on Processor 60
+1.34 minutes elapsed
+
+Completed run 2 of 2 on Processor 4
+32.98 seconds elapsed
+
+Completed run 1 of 2 on Processor 5
+1.35 minutes elapsed
+
+Completed run 2 of 2 on Processor 32
+43.25 seconds elapsed
+
+Completed run 1 of 2 on Processor 11
+1.36 minutes elapsed
+
+Completed run 1 of 2 on Processor 30
+1.41 minutes elapsed
+
+Completed run 2 of 2 on Processor 29
+24.55 seconds elapsed
+
+Completed run 2 of 2 on Processor 26
+34.17 seconds elapsed
+
+Completed run 2 of 2 on Processor 21
+49.87 seconds elapsed
+
+Completed run 2 of 2 on Processor 8
+27.00 seconds elapsed
+
+Completed run 2 of 2 on Processor 18
+47.20 seconds elapsed
+
+Completed run 2 of 2 on Processor 19
+34.34 seconds elapsed
+
+Completed run 2 of 2 on Processor 12
+29.34 seconds elapsed
+
+Completed run 2 of 2 on Processor 22
+24.74 seconds elapsed
+
+Completed run 2 of 2 on Processor 7
+40.38 seconds elapsed
+
+Completed run 1 of 2 on Processor 2
+1.65 minutes elapsed
+
+Completed run 2 of 2 on Processor 16
+44.66 seconds elapsed
+
+Completed run 2 of 2 on Processor 33
+46.25 seconds elapsed
+
+Completed run 2 of 2 on Processor 0
+29.52 seconds elapsed
+
+Completed run 2 of 2 on Processor 10
+24.31 seconds elapsed
+
+Completed run 1 of 2 on Processor 31
+1.73 minutes elapsed
+
+Completed run 2 of 2 on Processor 17
+46.50 seconds elapsed
+
+Completed run 2 of 2 on Processor 15
+38.50 seconds elapsed
+
+Completed run 2 of 2 on Processor 28
+43.62 seconds elapsed
+
+Completed run 2 of 2 on Processor 27
+30.74 seconds elapsed
+
+Completed run 2 of 2 on Processor 5
+29.50 seconds elapsed
+
+Completed run 2 of 2 on Processor 23
+33.71 seconds elapsed
+
+Completed run 1 of 2 on Processor 25
+1.88 minutes elapsed
+
+Completed run 2 of 2 on Processor 30
+29.33 seconds elapsed
+
+Completed run 2 of 2 on Processor 11
+32.66 seconds elapsed
+
+Completed run 2 of 2 on Processor 1
+53.94 seconds elapsed
+
+Completed run 2 of 2 on Processor 13
+48.94 seconds elapsed
+
+Completed run 2 of 2 on Processor 35
+54.58 seconds elapsed
+
+Completed run 2 of 2 on Processor 9
+50.73 seconds elapsed
+
+Completed run 2 of 2 on Processor 2
+24.25 seconds elapsed
+
+Completed run 2 of 2 on Processor 3
+1.19 minutes elapsed
+
+Completed run 2 of 2 on Processor 25
+21.50 seconds elapsed
+
+Completed run 2 of 2 on Processor 34
+1.07 minutes elapsed
+
+Completed run 2 of 2 on Processor 31
+45.88 seconds elapsed
+
+All ICA runs complete!
+2.47 minutes elapsed
+
+Checking and deleting small files.
+
+Renaming to sequential order completed.
+
+Adjustment completed
+
+Computing clusters...
+
+Distance matrix completed!
+35.10 seconds elapsed
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+
+Combining D matrix
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+12.89 seconds elapsed
+
+Clustering
+0.22 seconds elapsed
+
+Identified 50 clusters
+
+Loading individual S and A matrices
+8.07 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+0.61 seconds elapsed
+
+Writing files to ../Second_run_100_300/ica_runs/100
+0.32 seconds elapsed
+
+Complete!
+
+
+##################################
+# Computing dimension 120 of 300 #
+##################################
+
+Setting up...
+1.29 seconds elapsed
+
+Running ICA...
+
+Completed run 1 of 2 on Processor 26
+1.33 minutes elapsed
+
+Completed run 1 of 2 on Processor 18
+1.35 minutes elapsed
+
+Completed run 1 of 2 on Processor 19
+1.36 minutes elapsed
+
+Completed run 1 of 1 on Processor 44
+1.44 minutes elapsed
+
+Completed run 1 of 1 on Processor 61
+1.45 minutes elapsed
+
+Completed run 1 of 1 on Processor 62
+1.47 minutes elapsed
+
+Completed run 1 of 1 on Processor 63
+1.48 minutes elapsed
+
+Completed run 1 of 2 on Processor 14
+1.58 minutes elapsed
+
+Completed run 1 of 2 on Processor 4
+1.66 minutes elapsed
+
+Completed run 1 of 2 on Processor 0
+1.69 minutes elapsed
+
+Completed run 1 of 2 on Processor 25
+1.73 minutes elapsed
+
+Completed run 1 of 1 on Processor 38
+1.76 minutes elapsed
+
+Completed run 1 of 2 on Processor 35
+1.79 minutes elapsed
+
+Completed run 1 of 2 on Processor 23
+1.81 minutes elapsed
+
+Completed run 1 of 2 on Processor 1
+1.86 minutes elapsed
+
+Completed run 1 of 1 on Processor 42
+1.87 minutes elapsed
+
+Completed run 1 of 2 on Processor 34
+1.87 minutes elapsed
+
+Completed run 1 of 2 on Processor 27
+1.88 minutes elapsed
+
+Completed run 1 of 2 on Processor 7
+1.97 minutes elapsed
+
+Completed run 1 of 1 on Processor 58
+1.98 minutes elapsed
+
+Completed run 1 of 2 on Processor 16
+1.98 minutes elapsed
+
+Completed run 2 of 2 on Processor 14
+25.98 seconds elapsed
+
+Completed run 1 of 1 on Processor 37
+2.03 minutes elapsed
+
+Completed run 1 of 2 on Processor 8
+2.04 minutes elapsed
+
+Completed run 1 of 1 on Processor 59
+2.05 minutes elapsed
+
+Completed run 1 of 2 on Processor 29
+2.05 minutes elapsed
+
+Completed run 1 of 2 on Processor 24
+2.17 minutes elapsed
+
+Completed run 1 of 1 on Processor 36
+2.17 minutes elapsed
+
+Completed run 1 of 1 on Processor 40
+2.18 minutes elapsed
+
+Completed run 1 of 1 on Processor 53
+2.21 minutes elapsed
+
+Completed run 1 of 2 on Processor 20
+2.27 minutes elapsed
+
+Completed run 1 of 1 on Processor 45
+2.29 minutes elapsed
+
+Completed run 1 of 2 on Processor 11
+2.29 minutes elapsed
+
+Completed run 1 of 2 on Processor 33
+2.29 minutes elapsed
+
+Completed run 1 of 1 on Processor 41
+2.39 minutes elapsed
+
+Completed run 2 of 2 on Processor 0
+40.62 seconds elapsed
+
+Completed run 1 of 2 on Processor 21
+2.41 minutes elapsed
+
+Completed run 1 of 2 on Processor 3
+2.47 minutes elapsed
+
+Completed run 1 of 2 on Processor 32
+2.50 minutes elapsed
+
+Completed run 1 of 2 on Processor 22
+2.54 minutes elapsed
+
+Completed run 2 of 2 on Processor 18
+1.20 minutes elapsed
+
+Completed run 1 of 1 on Processor 43
+2.67 minutes elapsed
+
+Completed run 2 of 2 on Processor 1
+51.41 seconds elapsed
+
+Completed run 1 of 1 on Processor 48
+2.74 minutes elapsed
+
+Completed run 1 of 2 on Processor 28
+2.75 minutes elapsed
+
+Completed run 1 of 2 on Processor 31
+2.75 minutes elapsed
+
+Completed run 1 of 1 on Processor 50
+2.78 minutes elapsed
+
+Completed run 1 of 1 on Processor 51
+2.78 minutes elapsed
+
+Completed run 1 of 1 on Processor 55
+2.81 minutes elapsed
+
+Completed run 2 of 2 on Processor 25
+1.11 minutes elapsed
+
+Completed run 1 of 1 on Processor 54
+2.87 minutes elapsed
+
+Completed run 1 of 1 on Processor 60
+2.92 minutes elapsed
+
+Completed run 1 of 2 on Processor 10
+2.92 minutes elapsed
+
+Completed run 2 of 2 on Processor 27
+1.05 minutes elapsed
+
+Completed run 1 of 2 on Processor 13
+2.94 minutes elapsed
+
+Completed run 1 of 2 on Processor 2
+2.95 minutes elapsed
+
+Completed run 1 of 2 on Processor 9
+2.96 minutes elapsed
+
+Completed run 1 of 1 on Processor 47
+2.97 minutes elapsed
+
+Completed run 2 of 2 on Processor 33
+41.20 seconds elapsed
+
+Completed run 2 of 2 on Processor 7
+1.01 minutes elapsed
+
+Completed run 1 of 1 on Processor 49
+2.99 minutes elapsed
+
+Completed run 2 of 2 on Processor 34
+1.12 minutes elapsed
+
+Completed run 1 of 1 on Processor 57
+3.00 minutes elapsed
+
+Completed run 2 of 2 on Processor 23
+1.20 minutes elapsed
+
+Completed run 1 of 2 on Processor 12
+3.01 minutes elapsed
+
+Completed run 1 of 1 on Processor 39
+3.03 minutes elapsed
+
+Completed run 1 of 2 on Processor 6
+3.03 minutes elapsed
+
+Completed run 1 of 2 on Processor 30
+3.05 minutes elapsed
+
+Completed run 2 of 2 on Processor 29
+1.00 minutes elapsed
+
+Completed run 2 of 2 on Processor 16
+1.10 minutes elapsed
+
+Completed run 2 of 2 on Processor 19
+1.72 minutes elapsed
+
+Completed run 1 of 1 on Processor 46
+3.09 minutes elapsed
+
+Completed run 1 of 1 on Processor 56
+3.09 minutes elapsed
+
+Completed run 2 of 2 on Processor 32
+39.99 seconds elapsed
+
+Completed run 1 of 1 on Processor 52
+3.18 minutes elapsed
+
+Completed run 1 of 2 on Processor 17
+3.21 minutes elapsed
+
+Completed run 2 of 2 on Processor 21
+48.75 seconds elapsed
+
+Completed run 2 of 2 on Processor 24
+1.13 minutes elapsed
+
+Completed run 1 of 2 on Processor 5
+3.37 minutes elapsed
+
+Completed run 2 of 2 on Processor 35
+1.59 minutes elapsed
+
+Completed run 2 of 2 on Processor 10
+29.61 seconds elapsed
+
+Completed run 2 of 2 on Processor 28
+40.41 seconds elapsed
+
+Completed run 2 of 2 on Processor 11
+1.14 minutes elapsed
+
+Completed run 2 of 2 on Processor 26
+2.12 minutes elapsed
+
+Completed run 2 of 2 on Processor 20
+1.20 minutes elapsed
+
+Completed run 1 of 2 on Processor 15
+3.50 minutes elapsed
+
+Completed run 2 of 2 on Processor 4
+1.84 minutes elapsed
+
+Completed run 2 of 2 on Processor 8
+1.47 minutes elapsed
+
+Completed run 2 of 2 on Processor 22
+1.11 minutes elapsed
+
+Completed run 2 of 2 on Processor 12
+39.71 seconds elapsed
+
+Completed run 2 of 2 on Processor 9
+45.30 seconds elapsed
+
+Completed run 2 of 2 on Processor 5
+22.73 seconds elapsed
+
+Completed run 2 of 2 on Processor 30
+41.83 seconds elapsed
+
+Completed run 2 of 2 on Processor 6
+49.55 seconds elapsed
+
+Completed run 2 of 2 on Processor 13
+57.65 seconds elapsed
+
+Completed run 2 of 2 on Processor 31
+1.18 minutes elapsed
+
+Completed run 2 of 2 on Processor 17
+47.64 seconds elapsed
+
+Completed run 2 of 2 on Processor 3
+1.60 minutes elapsed
+
+Completed run 2 of 2 on Processor 2
+1.30 minutes elapsed
+
+Completed run 2 of 2 on Processor 15
+2.12 minutes elapsed
+
+All ICA runs complete!
+5.59 minutes elapsed
+
+Checking and deleting small files.
+
+Renaming to sequential order completed.
+
+Adjustment completed
+
+Computing clusters...
+
+Distance matrix completed!
+27.88 seconds elapsed
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+
+Combining D matrix
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+13.18 seconds elapsed
+
+Clustering
+0.41 seconds elapsed
+
+Identified 60 clusters
+
+Loading individual S and A matrices
+8.51 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+0.78 seconds elapsed
+
+Writing files to ../Second_run_100_300/ica_runs/120
+0.34 seconds elapsed
+
+Complete!
+
+
+##################################
+# Computing dimension 140 of 300 #
+##################################
+
+Setting up...
+2.25 seconds elapsed
+
+Running ICA...
+
+Completed run 1 of 1 on Processor 63
+1.64 minutes elapsed
+
+Completed run 1 of 1 on Processor 51
+1.93 minutes elapsed
+
+Completed run 1 of 2 on Processor 33
+2.01 minutes elapsed
+
+Completed run 1 of 2 on Processor 27
+2.05 minutes elapsed
+
+Completed run 1 of 1 on Processor 42
+2.10 minutes elapsed
+
+Completed run 1 of 1 on Processor 43
+2.17 minutes elapsed
+
+Completed run 1 of 1 on Processor 61
+2.19 minutes elapsed
+
+Completed run 1 of 2 on Processor 31
+2.22 minutes elapsed
+
+Completed run 1 of 1 on Processor 49
+2.36 minutes elapsed
+
+Completed run 1 of 1 on Processor 41
+2.37 minutes elapsed
+
+Completed run 1 of 2 on Processor 20
+2.42 minutes elapsed
+
+Completed run 1 of 1 on Processor 60
+2.46 minutes elapsed
+
+Completed run 1 of 2 on Processor 19
+2.50 minutes elapsed
+
+Completed run 1 of 1 on Processor 55
+2.65 minutes elapsed
+
+Completed run 1 of 2 on Processor 26
+2.67 minutes elapsed
+
+Completed run 1 of 2 on Processor 2
+2.72 minutes elapsed
+
+Completed run 1 of 1 on Processor 58
+2.77 minutes elapsed
+
+Completed run 1 of 2 on Processor 18
+2.78 minutes elapsed
+
+Completed run 1 of 2 on Processor 8
+2.80 minutes elapsed
+
+Completed run 1 of 2 on Processor 21
+2.99 minutes elapsed
+
+Completed run 1 of 1 on Processor 47
+3.19 minutes elapsed
+
+Completed run 1 of 2 on Processor 14
+3.19 minutes elapsed
+
+Completed run 1 of 2 on Processor 17
+3.30 minutes elapsed
+
+Completed run 1 of 1 on Processor 45
+3.37 minutes elapsed
+
+Completed run 1 of 1 on Processor 62
+3.38 minutes elapsed
+
+Completed run 1 of 1 on Processor 50
+3.40 minutes elapsed
+
+Completed run 2 of 2 on Processor 19
+54.48 seconds elapsed
+
+Completed run 1 of 1 on Processor 46
+3.45 minutes elapsed
+
+Completed run 1 of 2 on Processor 30
+3.47 minutes elapsed
+
+Completed run 2 of 2 on Processor 31
+1.32 minutes elapsed
+
+Completed run 1 of 2 on Processor 1
+3.56 minutes elapsed
+
+Completed run 1 of 2 on Processor 32
+3.58 minutes elapsed
+
+Completed run 1 of 2 on Processor 22
+3.60 minutes elapsed
+
+Completed run 1 of 1 on Processor 48
+3.63 minutes elapsed
+
+Completed run 1 of 1 on Processor 44
+3.65 minutes elapsed
+
+Completed run 2 of 2 on Processor 2
+58.95 seconds elapsed
+
+Completed run 1 of 2 on Processor 25
+3.71 minutes elapsed
+
+Completed run 1 of 1 on Processor 53
+3.72 minutes elapsed
+
+Completed run 1 of 2 on Processor 7
+3.72 minutes elapsed
+
+Completed run 1 of 1 on Processor 54
+3.74 minutes elapsed
+
+Completed run 1 of 2 on Processor 28
+3.79 minutes elapsed
+
+Completed run 1 of 2 on Processor 24
+3.81 minutes elapsed
+
+Completed run 1 of 1 on Processor 57
+3.83 minutes elapsed
+
+Completed run 1 of 2 on Processor 9
+3.88 minutes elapsed
+
+Completed run 2 of 2 on Processor 20
+1.46 minutes elapsed
+
+Completed run 1 of 2 on Processor 29
+3.91 minutes elapsed
+
+Completed run 2 of 2 on Processor 27
+1.93 minutes elapsed
+
+Completed run 1 of 1 on Processor 56
+3.98 minutes elapsed
+
+Completed run 2 of 2 on Processor 8
+1.26 minutes elapsed
+
+Completed run 1 of 2 on Processor 12
+4.06 minutes elapsed
+
+Completed run 1 of 2 on Processor 0
+4.03 minutes elapsed
+
+Completed run 2 of 2 on Processor 21
+1.13 minutes elapsed
+
+Completed run 1 of 2 on Processor 5
+4.12 minutes elapsed
+
+Completed run 1 of 1 on Processor 39
+4.16 minutes elapsed
+
+Completed run 1 of 2 on Processor 13
+4.19 minutes elapsed
+
+Completed run 2 of 2 on Processor 33
+2.20 minutes elapsed
+
+Completed run 1 of 2 on Processor 35
+4.23 minutes elapsed
+
+Completed run 1 of 1 on Processor 52
+4.24 minutes elapsed
+
+Completed run 1 of 2 on Processor 34
+4.26 minutes elapsed
+
+Completed run 1 of 2 on Processor 23
+4.31 minutes elapsed
+
+Completed run 1 of 2 on Processor 10
+4.37 minutes elapsed
+
+Completed run 1 of 2 on Processor 11
+4.38 minutes elapsed
+
+Completed run 1 of 2 on Processor 16
+4.43 minutes elapsed
+
+Completed run 1 of 1 on Processor 59
+4.50 minutes elapsed
+
+Completed run 1 of 2 on Processor 3
+4.55 minutes elapsed
+
+Completed run 1 of 1 on Processor 37
+4.57 minutes elapsed
+
+Completed run 1 of 2 on Processor 15
+4.66 minutes elapsed
+
+Completed run 1 of 2 on Processor 4
+4.73 minutes elapsed
+
+Completed run 2 of 2 on Processor 18
+2.01 minutes elapsed
+
+Completed run 2 of 2 on Processor 1
+1.25 minutes elapsed
+
+Completed run 2 of 2 on Processor 24
+1.04 minutes elapsed
+
+Completed run 1 of 1 on Processor 36
+4.87 minutes elapsed
+
+Completed run 2 of 2 on Processor 32
+1.37 minutes elapsed
+
+Completed run 1 of 2 on Processor 6
+4.98 minutes elapsed
+
+Completed run 1 of 1 on Processor 40
+5.00 minutes elapsed
+
+Completed run 2 of 2 on Processor 14
+1.82 minutes elapsed
+
+Completed run 2 of 2 on Processor 30
+1.54 minutes elapsed
+
+Completed run 2 of 2 on Processor 22
+1.42 minutes elapsed
+
+Completed run 2 of 2 on Processor 9
+1.14 minutes elapsed
+
+Completed run 2 of 2 on Processor 23
+44.14 seconds elapsed
+
+Completed run 1 of 1 on Processor 38
+5.05 minutes elapsed
+
+Completed run 2 of 2 on Processor 0
+1.03 minutes elapsed
+
+Completed run 2 of 2 on Processor 26
+2.59 minutes elapsed
+
+Completed run 2 of 2 on Processor 11
+1.10 minutes elapsed
+
+Completed run 2 of 2 on Processor 35
+1.25 minutes elapsed
+
+Completed run 2 of 2 on Processor 5
+1.43 minutes elapsed
+
+Completed run 2 of 2 on Processor 28
+1.78 minutes elapsed
+
+Completed run 2 of 2 on Processor 25
+2.00 minutes elapsed
+
+Completed run 2 of 2 on Processor 34
+1.49 minutes elapsed
+
+Completed run 2 of 2 on Processor 3
+1.28 minutes elapsed
+
+Completed run 2 of 2 on Processor 29
+1.93 minutes elapsed
+
+Completed run 2 of 2 on Processor 17
+2.55 minutes elapsed
+
+Completed run 2 of 2 on Processor 16
+1.44 minutes elapsed
+
+Completed run 2 of 2 on Processor 13
+2.12 minutes elapsed
+
+Completed run 2 of 2 on Processor 4
+1.59 minutes elapsed
+
+Completed run 2 of 2 on Processor 15
+1.67 minutes elapsed
+
+Completed run 2 of 2 on Processor 12
+2.30 minutes elapsed
+
+Completed run 2 of 2 on Processor 7
+2.94 minutes elapsed
+
+Completed run 2 of 2 on Processor 10
+2.30 minutes elapsed
+
+Completed run 2 of 2 on Processor 6
+1.88 minutes elapsed
+
+All ICA runs complete!
+6.83 minutes elapsed
+
+Checking and deleting small files.
+
+Renaming to sequential order completed.
+
+Adjustment completed
+
+Computing clusters...
+
+Distance matrix completed!
+40.29 seconds elapsed
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+
+Combining D matrix
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+12.59 seconds elapsed
+
+Clustering
+0.60 seconds elapsed
+
+Identified 56 clusters
+
+Loading individual S and A matrices
+12.02 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+0.70 seconds elapsed
+
+Writing files to ../Second_run_100_300/ica_runs/140
+0.34 seconds elapsed
+
+Complete!
+
+
+##################################
+# Computing dimension 160 of 300 #
+##################################
+
+Setting up...
+1.25 seconds elapsed
+
+Running ICA...
+
+Completed run 1 of 1 on Processor 51
+1.86 minutes elapsed
+
+Completed run 1 of 2 on Processor 33
+2.06 minutes elapsed
+
+Completed run 1 of 2 on Processor 2
+2.50 minutes elapsed
+
+Completed run 1 of 1 on Processor 36
+3.01 minutes elapsed
+
+Completed run 1 of 2 on Processor 27
+3.04 minutes elapsed
+
+Completed run 1 of 1 on Processor 54
+3.13 minutes elapsed
+
+Completed run 1 of 2 on Processor 9
+3.21 minutes elapsed
+
+Completed run 1 of 2 on Processor 23
+3.24 minutes elapsed
+
+Completed run 1 of 2 on Processor 11
+3.27 minutes elapsed
+
+Completed run 1 of 2 on Processor 17
+3.33 minutes elapsed
+
+Completed run 1 of 1 on Processor 44
+3.36 minutes elapsed
+
+Completed run 1 of 1 on Processor 45
+3.36 minutes elapsed
+
+Completed run 1 of 2 on Processor 30
+3.44 minutes elapsed
+
+Completed run 1 of 1 on Processor 39
+3.45 minutes elapsed
+
+Completed run 1 of 1 on Processor 55
+3.51 minutes elapsed
+
+Completed run 1 of 2 on Processor 22
+3.57 minutes elapsed
+
+Completed run 1 of 2 on Processor 8
+3.74 minutes elapsed
+
+Completed run 1 of 1 on Processor 46
+3.76 minutes elapsed
+
+Completed run 1 of 2 on Processor 4
+3.76 minutes elapsed
+
+Completed run 1 of 1 on Processor 60
+3.78 minutes elapsed
+
+Completed run 1 of 1 on Processor 37
+3.86 minutes elapsed
+
+Completed run 1 of 2 on Processor 21
+4.00 minutes elapsed
+
+Completed run 1 of 2 on Processor 13
+4.06 minutes elapsed
+
+Completed run 1 of 2 on Processor 31
+4.29 minutes elapsed
+
+Completed run 1 of 1 on Processor 56
+4.30 minutes elapsed
+
+Completed run 1 of 1 on Processor 63
+4.33 minutes elapsed
+
+Completed run 1 of 1 on Processor 52
+4.34 minutes elapsed
+
+Completed run 1 of 1 on Processor 40
+4.37 minutes elapsed
+
+Completed run 1 of 2 on Processor 26
+4.49 minutes elapsed
+
+Completed run 1 of 1 on Processor 49
+4.59 minutes elapsed
+
+Completed run 1 of 2 on Processor 35
+4.70 minutes elapsed
+
+Completed run 1 of 1 on Processor 42
+4.77 minutes elapsed
+
+Completed run 1 of 1 on Processor 41
+4.82 minutes elapsed
+
+Completed run 1 of 1 on Processor 48
+4.84 minutes elapsed
+
+Completed run 1 of 1 on Processor 43
+4.88 minutes elapsed
+
+Completed run 1 of 2 on Processor 1
+4.90 minutes elapsed
+
+Completed run 1 of 1 on Processor 58
+5.00 minutes elapsed
+
+Completed run 2 of 2 on Processor 23
+1.92 minutes elapsed
+
+Completed run 2 of 2 on Processor 27
+2.19 minutes elapsed
+
+Completed run 1 of 1 on Processor 53
+5.36 minutes elapsed
+
+Completed run 1 of 2 on Processor 12
+5.38 minutes elapsed
+
+Completed run 1 of 2 on Processor 10
+5.41 minutes elapsed
+
+Completed run 1 of 1 on Processor 38
+5.41 minutes elapsed
+
+Completed run 1 of 1 on Processor 61
+5.52 minutes elapsed
+
+Completed run 1 of 2 on Processor 25
+5.52 minutes elapsed
+
+Completed run 2 of 2 on Processor 9
+2.40 minutes elapsed
+
+Completed run 1 of 2 on Processor 7
+5.67 minutes elapsed
+
+Completed run 1 of 1 on Processor 62
+5.67 minutes elapsed
+
+Completed run 1 of 2 on Processor 0
+5.68 minutes elapsed
+
+Completed run 1 of 2 on Processor 14
+5.70 minutes elapsed
+
+Completed run 1 of 2 on Processor 32
+5.80 minutes elapsed
+
+Completed run 1 of 2 on Processor 34
+5.83 minutes elapsed
+
+Completed run 1 of 2 on Processor 15
+5.87 minutes elapsed
+
+Completed run 2 of 2 on Processor 22
+2.33 minutes elapsed
+
+Completed run 2 of 2 on Processor 2
+3.43 minutes elapsed
+
+Completed run 1 of 2 on Processor 28
+5.93 minutes elapsed
+
+Completed run 1 of 2 on Processor 29
+5.97 minutes elapsed
+
+Completed run 2 of 2 on Processor 4
+2.30 minutes elapsed
+
+Completed run 2 of 2 on Processor 31
+1.90 minutes elapsed
+
+Completed run 2 of 2 on Processor 11
+3.07 minutes elapsed
+
+Completed run 1 of 2 on Processor 6
+6.35 minutes elapsed
+
+Completed run 1 of 2 on Processor 20
+6.39 minutes elapsed
+
+Completed run 1 of 2 on Processor 24
+6.43 minutes elapsed
+
+Completed run 1 of 2 on Processor 16
+6.48 minutes elapsed
+
+Completed run 1 of 2 on Processor 18
+6.48 minutes elapsed
+
+Completed run 2 of 2 on Processor 13
+2.48 minutes elapsed
+
+Completed run 1 of 1 on Processor 50
+6.70 minutes elapsed
+
+Completed run 2 of 2 on Processor 10
+1.30 minutes elapsed
+
+Completed run 1 of 2 on Processor 19
+6.72 minutes elapsed
+
+Completed run 1 of 1 on Processor 47
+6.75 minutes elapsed
+
+Completed run 2 of 2 on Processor 30
+3.39 minutes elapsed
+
+Completed run 2 of 2 on Processor 35
+2.12 minutes elapsed
+
+Completed run 2 of 2 on Processor 33
+4.86 minutes elapsed
+
+Completed run 2 of 2 on Processor 21
+2.94 minutes elapsed
+
+Completed run 1 of 1 on Processor 59
+6.98 minutes elapsed
+
+Completed run 2 of 2 on Processor 8
+3.30 minutes elapsed
+
+Completed run 1 of 2 on Processor 5
+7.24 minutes elapsed
+
+Completed run 2 of 2 on Processor 1
+2.40 minutes elapsed
+
+Completed run 1 of 1 on Processor 57
+7.63 minutes elapsed
+
+Completed run 2 of 2 on Processor 34
+1.87 minutes elapsed
+
+Completed run 2 of 2 on Processor 25
+2.19 minutes elapsed
+
+Completed run 2 of 2 on Processor 26
+3.27 minutes elapsed
+
+Completed run 2 of 2 on Processor 14
+2.08 minutes elapsed
+
+Completed run 2 of 2 on Processor 6
+1.52 minutes elapsed
+
+Completed run 2 of 2 on Processor 20
+1.54 minutes elapsed
+
+Completed run 2 of 2 on Processor 29
+2.03 minutes elapsed
+
+Completed run 2 of 2 on Processor 19
+1.33 minutes elapsed
+
+Completed run 1 of 2 on Processor 3
+8.07 minutes elapsed
+
+Completed run 2 of 2 on Processor 7
+2.45 minutes elapsed
+
+Completed run 2 of 2 on Processor 18
+1.70 minutes elapsed
+
+Completed run 2 of 2 on Processor 12
+2.96 minutes elapsed
+
+Completed run 2 of 2 on Processor 17
+5.15 minutes elapsed
+
+Completed run 2 of 2 on Processor 24
+2.26 minutes elapsed
+
+Completed run 2 of 2 on Processor 28
+2.84 minutes elapsed
+
+Completed run 2 of 2 on Processor 15
+3.05 minutes elapsed
+
+Completed run 2 of 2 on Processor 32
+3.13 minutes elapsed
+
+Completed run 2 of 2 on Processor 0
+3.33 minutes elapsed
+
+Completed run 2 of 2 on Processor 5
+2.32 minutes elapsed
+
+Completed run 2 of 2 on Processor 3
+1.72 minutes elapsed
+
+Completed run 2 of 2 on Processor 16
+3.33 minutes elapsed
+
+All ICA runs complete!
+9.79 minutes elapsed
+
+Checking and deleting small files.
+
+Renaming to sequential order completed.
+
+Adjustment completed
+
+Computing clusters...
+
+Distance matrix completed!
+38.57 seconds elapsed
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+
+Combining D matrix
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+12.68 seconds elapsed
+
+Clustering
+0.28 seconds elapsed
+
+Identified 61 clusters
+
+Loading individual S and A matrices
+11.97 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+0.77 seconds elapsed
+
+Writing files to ../Second_run_100_300/ica_runs/160
+0.35 seconds elapsed
+
+Complete!
+
+
+##################################
+# Computing dimension 180 of 300 #
+##################################
+
+Setting up...
+1.11 seconds elapsed
+
+Running ICA...
+
+Completed run 1 of 1 on Processor 44
+4.03 minutes elapsed
+
+Completed run 1 of 1 on Processor 39
+4.44 minutes elapsed
+
+Completed run 1 of 2 on Processor 4
+4.45 minutes elapsed
+
+Completed run 1 of 1 on Processor 59
+4.68 minutes elapsed
+
+Completed run 1 of 2 on Processor 28
+4.73 minutes elapsed
+
+Completed run 1 of 1 on Processor 42
+4.73 minutes elapsed
+
+Completed run 1 of 2 on Processor 6
+4.93 minutes elapsed
+
+Completed run 1 of 2 on Processor 7
+4.98 minutes elapsed
+
+Completed run 1 of 2 on Processor 34
+5.29 minutes elapsed
+
+Completed run 1 of 2 on Processor 30
+5.34 minutes elapsed
+
+Completed run 1 of 2 on Processor 1
+5.36 minutes elapsed
+
+Completed run 1 of 1 on Processor 47
+5.44 minutes elapsed
+
+Completed run 1 of 2 on Processor 14
+5.62 minutes elapsed
+
+Completed run 1 of 2 on Processor 5
+5.75 minutes elapsed
+
+Completed run 1 of 2 on Processor 27
+5.79 minutes elapsed
+
+Completed run 1 of 2 on Processor 10
+5.88 minutes elapsed
+
+Completed run 1 of 2 on Processor 29
+5.93 minutes elapsed
+
+Completed run 1 of 1 on Processor 43
+5.93 minutes elapsed
+
+Completed run 1 of 2 on Processor 19
+5.96 minutes elapsed
+
+Completed run 1 of 1 on Processor 45
+6.23 minutes elapsed
+
+Completed run 1 of 1 on Processor 49
+6.39 minutes elapsed
+
+Completed run 1 of 1 on Processor 52
+6.63 minutes elapsed
+
+Completed run 1 of 2 on Processor 31
+6.72 minutes elapsed
+
+Completed run 1 of 2 on Processor 23
+6.85 minutes elapsed
+
+Completed run 1 of 2 on Processor 15
+7.48 minutes elapsed
+
+Completed run 1 of 2 on Processor 2
+7.57 minutes elapsed
+
+Completed run 1 of 1 on Processor 56
+7.58 minutes elapsed
+
+Completed run 1 of 2 on Processor 12
+7.67 minutes elapsed
+
+Completed run 2 of 2 on Processor 6
+2.89 minutes elapsed
+
+Completed run 2 of 2 on Processor 4
+3.44 minutes elapsed
+
+Completed run 1 of 1 on Processor 58
+8.30 minutes elapsed
+
+Completed run 1 of 1 on Processor 51
+8.35 minutes elapsed
+
+Completed run 1 of 2 on Processor 32
+8.37 minutes elapsed
+
+Completed run 1 of 2 on Processor 33
+8.46 minutes elapsed
+
+Completed run 2 of 2 on Processor 28
+3.77 minutes elapsed
+
+Completed run 2 of 2 on Processor 1
+3.14 minutes elapsed
+
+Completed run 1 of 2 on Processor 25
+8.51 minutes elapsed
+
+Completed run 1 of 1 on Processor 61
+8.66 minutes elapsed
+
+Completed run 1 of 1 on Processor 48
+8.70 minutes elapsed
+
+Completed run 1 of 1 on Processor 41
+8.72 minutes elapsed
+
+Completed run 1 of 1 on Processor 60
+8.80 minutes elapsed
+
+Completed run 2 of 2 on Processor 5
+3.06 minutes elapsed
+
+Completed run 1 of 2 on Processor 26
+8.82 minutes elapsed
+
+Completed run 1 of 1 on Processor 54
+8.91 minutes elapsed
+
+Completed run 1 of 2 on Processor 0
+8.91 minutes elapsed
+
+Completed run 1 of 1 on Processor 46
+8.98 minutes elapsed
+
+Completed run 1 of 2 on Processor 11
+9.06 minutes elapsed
+
+Completed run 2 of 2 on Processor 30
+3.78 minutes elapsed
+
+Completed run 1 of 2 on Processor 17
+9.12 minutes elapsed
+
+Completed run 1 of 2 on Processor 13
+9.16 minutes elapsed
+
+Completed run 1 of 1 on Processor 36
+9.28 minutes elapsed
+
+Completed run 1 of 2 on Processor 9
+9.33 minutes elapsed
+
+Completed run 1 of 2 on Processor 18
+9.36 minutes elapsed
+
+Completed run 1 of 2 on Processor 24
+9.59 minutes elapsed
+
+Completed run 2 of 2 on Processor 29
+3.84 minutes elapsed
+
+Completed run 2 of 2 on Processor 23
+2.93 minutes elapsed
+
+Completed run 1 of 1 on Processor 63
+9.80 minutes elapsed
+
+Completed run 1 of 1 on Processor 37
+9.81 minutes elapsed
+
+Completed run 1 of 2 on Processor 8
+9.81 minutes elapsed
+
+Completed run 2 of 2 on Processor 7
+4.86 minutes elapsed
+
+Completed run 1 of 2 on Processor 22
+9.87 minutes elapsed
+
+Completed run 2 of 2 on Processor 12
+2.28 minutes elapsed
+
+Completed run 2 of 2 on Processor 34
+4.69 minutes elapsed
+
+Completed run 2 of 2 on Processor 27
+4.20 minutes elapsed
+
+Completed run 1 of 2 on Processor 3
+10.20 minutes elapsed
+
+Completed run 1 of 1 on Processor 38
+10.21 minutes elapsed
+
+Completed run 1 of 2 on Processor 21
+10.25 minutes elapsed
+
+Completed run 1 of 2 on Processor 20
+10.47 minutes elapsed
+
+Completed run 1 of 1 on Processor 55
+10.88 minutes elapsed
+
+Completed run 2 of 2 on Processor 14
+5.30 minutes elapsed
+
+Completed run 2 of 2 on Processor 0
+2.02 minutes elapsed
+
+Completed run 2 of 2 on Processor 15
+3.56 minutes elapsed
+
+Completed run 2 of 2 on Processor 25
+2.59 minutes elapsed
+
+Completed run 1 of 2 on Processor 35
+11.11 minutes elapsed
+
+Completed run 2 of 2 on Processor 10
+5.24 minutes elapsed
+
+Completed run 2 of 2 on Processor 11
+2.10 minutes elapsed
+
+Completed run 2 of 2 on Processor 2
+3.60 minutes elapsed
+
+Completed run 2 of 2 on Processor 31
+4.61 minutes elapsed
+
+Completed run 2 of 2 on Processor 17
+2.24 minutes elapsed
+
+Completed run 1 of 1 on Processor 53
+11.38 minutes elapsed
+
+Completed run 2 of 2 on Processor 32
+3.07 minutes elapsed
+
+Completed run 1 of 1 on Processor 62
+11.56 minutes elapsed
+
+Completed run 2 of 2 on Processor 26
+2.79 minutes elapsed
+
+Completed run 1 of 1 on Processor 50
+11.70 minutes elapsed
+
+Completed run 2 of 2 on Processor 19
+5.90 minutes elapsed
+
+Completed run 2 of 2 on Processor 9
+2.68 minutes elapsed
+
+Completed run 1 of 2 on Processor 16
+12.10 minutes elapsed
+
+Completed run 1 of 1 on Processor 40
+12.13 minutes elapsed
+
+Completed run 2 of 2 on Processor 3
+1.98 minutes elapsed
+
+Completed run 1 of 1 on Processor 57
+12.23 minutes elapsed
+
+Completed run 2 of 2 on Processor 13
+3.20 minutes elapsed
+
+Completed run 2 of 2 on Processor 8
+2.68 minutes elapsed
+
+Completed run 2 of 2 on Processor 33
+4.28 minutes elapsed
+
+Completed run 2 of 2 on Processor 24
+3.22 minutes elapsed
+
+Completed run 2 of 2 on Processor 22
+3.47 minutes elapsed
+
+Completed run 2 of 2 on Processor 21
+3.12 minutes elapsed
+
+Completed run 2 of 2 on Processor 20
+3.17 minutes elapsed
+
+Completed run 2 of 2 on Processor 16
+2.04 minutes elapsed
+
+Completed run 2 of 2 on Processor 35
+3.23 minutes elapsed
+
+Completed run 2 of 2 on Processor 18
+6.01 minutes elapsed
+
+All ICA runs complete!
+15.35 minutes elapsed
+
+Checking and deleting small files.
+
+Renaming to sequential order completed.
+
+Adjustment completed
+
+Computing clusters...
+
+Distance matrix completed!
+41.45 seconds elapsed
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+
+Combining D matrix
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+12.92 seconds elapsed
+
+Clustering
+0.47 seconds elapsed
+
+Identified 65 clusters
+
+Loading individual S and A matrices
+13.75 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+0.85 seconds elapsed
+
+Writing files to ../Second_run_100_300/ica_runs/180
+0.43 seconds elapsed
+
+Complete!
+
+
+##################################
+# Computing dimension 200 of 300 #
+##################################
+
+Setting up...
+1.69 seconds elapsed
+
+Running ICA...
+
+Completed run 1 of 1 on Processor 50
+3.59 minutes elapsed
+
+Completed run 1 of 1 on Processor 43
+4.12 minutes elapsed
+
+Completed run 1 of 1 on Processor 44
+4.37 minutes elapsed
+
+Completed run 1 of 1 on Processor 61
+4.53 minutes elapsed
+
+Completed run 1 of 2 on Processor 3
+5.23 minutes elapsed
+
+Completed run 1 of 1 on Processor 36
+5.25 minutes elapsed
+
+Completed run 1 of 2 on Processor 28
+5.36 minutes elapsed
+
+Completed run 1 of 2 on Processor 8
+5.64 minutes elapsed
+
+Completed run 1 of 1 on Processor 41
+5.80 minutes elapsed
+
+Completed run 1 of 2 on Processor 13
+5.83 minutes elapsed
+
+Completed run 1 of 2 on Processor 19
+5.92 minutes elapsed
+
+Completed run 1 of 1 on Processor 57
+5.95 minutes elapsed
+
+Completed run 1 of 1 on Processor 42
+6.12 minutes elapsed
+
+Completed run 1 of 2 on Processor 27
+6.13 minutes elapsed
+
+Completed run 1 of 2 on Processor 21
+6.39 minutes elapsed
+
+Completed run 1 of 1 on Processor 60
+6.46 minutes elapsed
+
+Completed run 1 of 1 on Processor 56
+6.46 minutes elapsed
+
+Completed run 1 of 2 on Processor 32
+6.90 minutes elapsed
+
+Completed run 1 of 1 on Processor 47
+7.00 minutes elapsed
+
+Completed run 1 of 2 on Processor 34
+7.08 minutes elapsed
+
+Completed run 1 of 2 on Processor 23
+7.09 minutes elapsed
+
+Completed run 1 of 1 on Processor 37
+7.09 minutes elapsed
+
+Completed run 1 of 2 on Processor 26
+7.10 minutes elapsed
+
+Completed run 1 of 2 on Processor 14
+7.12 minutes elapsed
+
+Completed run 1 of 2 on Processor 22
+7.40 minutes elapsed
+
+Completed run 1 of 2 on Processor 30
+7.66 minutes elapsed
+
+Completed run 1 of 2 on Processor 29
+7.74 minutes elapsed
+
+Completed run 1 of 2 on Processor 35
+7.88 minutes elapsed
+
+Completed run 1 of 1 on Processor 62
+7.93 minutes elapsed
+
+Completed run 1 of 2 on Processor 10
+8.17 minutes elapsed
+
+Completed run 1 of 1 on Processor 49
+8.26 minutes elapsed
+
+Completed run 1 of 1 on Processor 54
+8.30 minutes elapsed
+
+Completed run 1 of 1 on Processor 51
+8.33 minutes elapsed
+
+Completed run 1 of 2 on Processor 5
+8.34 minutes elapsed
+
+Completed run 1 of 1 on Processor 53
+8.34 minutes elapsed
+
+Completed run 1 of 2 on Processor 17
+8.50 minutes elapsed
+
+Completed run 1 of 2 on Processor 6
+8.50 minutes elapsed
+
+Completed run 1 of 2 on Processor 12
+8.53 minutes elapsed
+
+Completed run 1 of 2 on Processor 31
+8.55 minutes elapsed
+
+Completed run 1 of 2 on Processor 4
+8.60 minutes elapsed
+
+Completed run 1 of 2 on Processor 7
+8.73 minutes elapsed
+
+Completed run 1 of 1 on Processor 52
+8.76 minutes elapsed
+
+Completed run 1 of 2 on Processor 16
+8.76 minutes elapsed
+
+Completed run 1 of 1 on Processor 45
+8.85 minutes elapsed
+
+Completed run 1 of 2 on Processor 33
+8.95 minutes elapsed
+
+Completed run 1 of 1 on Processor 63
+9.26 minutes elapsed
+
+Completed run 1 of 2 on Processor 18
+9.45 minutes elapsed
+
+Completed run 1 of 2 on Processor 15
+9.46 minutes elapsed
+
+Completed run 1 of 1 on Processor 48
+9.74 minutes elapsed
+
+Completed run 2 of 2 on Processor 28
+4.47 minutes elapsed
+
+Completed run 1 of 2 on Processor 11
+9.93 minutes elapsed
+
+Completed run 1 of 2 on Processor 1
+10.06 minutes elapsed
+
+Completed run 2 of 2 on Processor 23
+3.39 minutes elapsed
+
+Completed run 2 of 2 on Processor 29
+2.79 minutes elapsed
+
+Completed run 1 of 2 on Processor 9
+10.56 minutes elapsed
+
+Completed run 1 of 2 on Processor 25
+10.58 minutes elapsed
+
+Completed run 1 of 2 on Processor 24
+10.61 minutes elapsed
+
+Completed run 1 of 1 on Processor 46
+10.62 minutes elapsed
+
+Completed run 1 of 1 on Processor 59
+10.63 minutes elapsed
+
+Completed run 2 of 2 on Processor 14
+3.56 minutes elapsed
+
+Completed run 1 of 1 on Processor 58
+10.72 minutes elapsed
+
+Completed run 2 of 2 on Processor 5
+2.49 minutes elapsed
+
+Completed run 1 of 1 on Processor 40
+10.84 minutes elapsed
+
+Completed run 1 of 1 on Processor 39
+10.94 minutes elapsed
+
+Completed run 2 of 2 on Processor 26
+4.34 minutes elapsed
+
+Completed run 1 of 2 on Processor 20
+11.55 minutes elapsed
+
+Completed run 2 of 2 on Processor 3
+6.36 minutes elapsed
+
+Completed run 2 of 2 on Processor 30
+4.15 minutes elapsed
+
+Completed run 2 of 2 on Processor 32
+4.94 minutes elapsed
+
+Completed run 2 of 2 on Processor 22
+4.60 minutes elapsed
+
+Completed run 2 of 2 on Processor 12
+3.61 minutes elapsed
+
+Completed run 2 of 2 on Processor 21
+5.76 minutes elapsed
+
+Completed run 2 of 2 on Processor 16
+3.40 minutes elapsed
+
+Completed run 1 of 2 on Processor 2
+12.20 minutes elapsed
+
+Completed run 2 of 2 on Processor 27
+6.12 minutes elapsed
+
+Completed run 2 of 2 on Processor 7
+3.53 minutes elapsed
+
+Completed run 1 of 1 on Processor 38
+12.34 minutes elapsed
+
+Completed run 2 of 2 on Processor 13
+6.78 minutes elapsed
+
+Completed run 1 of 2 on Processor 0
+12.60 minutes elapsed
+
+Completed run 2 of 2 on Processor 19
+6.75 minutes elapsed
+
+Completed run 2 of 2 on Processor 11
+2.78 minutes elapsed
+
+Completed run 2 of 2 on Processor 4
+4.13 minutes elapsed
+
+Completed run 2 of 2 on Processor 8
+7.10 minutes elapsed
+
+Completed run 2 of 2 on Processor 17
+4.27 minutes elapsed
+
+Completed run 2 of 2 on Processor 34
+5.71 minutes elapsed
+
+Completed run 2 of 2 on Processor 31
+4.26 minutes elapsed
+
+Completed run 1 of 1 on Processor 55
+12.98 minutes elapsed
+
+Completed run 2 of 2 on Processor 10
+5.04 minutes elapsed
+
+Completed run 2 of 2 on Processor 35
+5.50 minutes elapsed
+
+Completed run 2 of 2 on Processor 1
+3.50 minutes elapsed
+
+Completed run 2 of 2 on Processor 33
+4.64 minutes elapsed
+
+Completed run 2 of 2 on Processor 6
+5.36 minutes elapsed
+
+Completed run 2 of 2 on Processor 24
+3.27 minutes elapsed
+
+Completed run 2 of 2 on Processor 9
+3.47 minutes elapsed
+
+Completed run 2 of 2 on Processor 0
+1.79 minutes elapsed
+
+Completed run 2 of 2 on Processor 20
+3.25 minutes elapsed
+
+Completed run 2 of 2 on Processor 15
+5.70 minutes elapsed
+
+Completed run 2 of 2 on Processor 25
+4.64 minutes elapsed
+
+Completed run 2 of 2 on Processor 2
+3.52 minutes elapsed
+
+Completed run 2 of 2 on Processor 18
+7.78 minutes elapsed
+
+All ICA runs complete!
+17.20 minutes elapsed
+
+Checking and deleting small files.
+
+Renaming to sequential order completed.
+
+Adjustment completed
+
+Computing clusters...
+
+Distance matrix completed!
+58.72 seconds elapsed
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+
+Combining D matrix
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+13.51 seconds elapsed
+
+Clustering
+0.32 seconds elapsed
+
+Identified 77 clusters
+
+Loading individual S and A matrices
+14.17 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+0.93 seconds elapsed
+
+Writing files to ../Second_run_100_300/ica_runs/200
+0.47 seconds elapsed
+
+Complete!
+
+
+##################################
+# Computing dimension 220 of 300 #
+##################################
+
+Setting up...
+1.67 seconds elapsed
+
+Running ICA...
+
+Completed run 1 of 2 on Processor 6
+3.82 minutes elapsed
+
+Completed run 1 of 1 on Processor 56
+5.32 minutes elapsed
+
+Completed run 1 of 1 on Processor 42
+6.47 minutes elapsed
+
+Completed run 1 of 2 on Processor 24
+6.61 minutes elapsed
+
+Completed run 1 of 1 on Processor 36
+7.34 minutes elapsed
+
+Completed run 1 of 2 on Processor 4
+7.46 minutes elapsed
+
+Completed run 1 of 2 on Processor 7
+8.26 minutes elapsed
+
+Completed run 1 of 2 on Processor 34
+8.72 minutes elapsed
+
+Completed run 1 of 2 on Processor 9
+8.87 minutes elapsed
+
+Completed run 1 of 1 on Processor 62
+9.05 minutes elapsed
+
+Completed run 1 of 2 on Processor 26
+9.59 minutes elapsed
+
+Completed run 1 of 2 on Processor 22
+9.68 minutes elapsed
+
+Completed run 1 of 1 on Processor 61
+10.68 minutes elapsed
+
+Completed run 1 of 1 on Processor 51
+11.03 minutes elapsed
+
+Completed run 1 of 2 on Processor 0
+11.19 minutes elapsed
+
+Completed run 1 of 2 on Processor 32
+11.25 minutes elapsed
+
+Completed run 1 of 2 on Processor 13
+11.62 minutes elapsed
+
+Completed run 1 of 1 on Processor 45
+11.76 minutes elapsed
+
+Completed run 1 of 1 on Processor 53
+11.79 minutes elapsed
+
+Completed run 2 of 2 on Processor 6
+8.46 minutes elapsed
+
+Completed run 1 of 1 on Processor 59
+12.30 minutes elapsed
+
+Completed run 1 of 2 on Processor 17
+13.40 minutes elapsed
+
+Completed run 1 of 2 on Processor 14
+13.96 minutes elapsed
+
+Completed run 1 of 1 on Processor 37
+13.97 minutes elapsed
+
+Completed run 1 of 1 on Processor 60
+14.01 minutes elapsed
+
+Completed run 1 of 1 on Processor 52
+14.51 minutes elapsed
+
+Completed run 1 of 1 on Processor 40
+14.69 minutes elapsed
+
+Completed run 1 of 1 on Processor 47
+15.25 minutes elapsed
+
+Completed run 1 of 2 on Processor 28
+15.27 minutes elapsed
+
+Completed run 1 of 2 on Processor 33
+15.43 minutes elapsed
+
+Completed run 1 of 1 on Processor 46
+15.47 minutes elapsed
+
+Completed run 1 of 1 on Processor 41
+15.71 minutes elapsed
+
+Completed run 1 of 2 on Processor 25
+15.89 minutes elapsed
+
+Completed run 1 of 2 on Processor 16
+16.27 minutes elapsed
+
+Completed run 1 of 1 on Processor 39
+16.30 minutes elapsed
+
+Completed run 1 of 1 on Processor 48
+16.32 minutes elapsed
+
+Completed run 1 of 2 on Processor 3
+16.32 minutes elapsed
+
+Completed run 1 of 1 on Processor 55
+16.47 minutes elapsed
+
+Completed run 1 of 2 on Processor 5
+16.52 minutes elapsed
+
+Completed run 1 of 1 on Processor 49
+16.58 minutes elapsed
+
+Completed run 2 of 2 on Processor 9
+7.74 minutes elapsed
+
+Completed run 1 of 2 on Processor 29
+17.08 minutes elapsed
+
+Completed run 1 of 2 on Processor 30
+17.19 minutes elapsed
+
+Completed run 1 of 2 on Processor 20
+17.30 minutes elapsed
+
+Completed run 1 of 1 on Processor 57
+17.84 minutes elapsed
+
+Completed run 1 of 1 on Processor 58
+17.88 minutes elapsed
+
+Completed run 1 of 2 on Processor 15
+17.91 minutes elapsed
+
+Completed run 1 of 1 on Processor 44
+17.91 minutes elapsed
+
+Completed run 2 of 2 on Processor 34
+9.36 minutes elapsed
+
+Completed run 1 of 2 on Processor 11
+18.11 minutes elapsed
+
+Completed run 2 of 2 on Processor 0
+6.96 minutes elapsed
+
+Completed run 2 of 2 on Processor 17
+5.37 minutes elapsed
+
+Completed run 2 of 2 on Processor 13
+7.27 minutes elapsed
+
+Completed run 1 of 2 on Processor 18
+19.06 minutes elapsed
+
+Completed run 1 of 2 on Processor 35
+19.18 minutes elapsed
+
+Completed run 1 of 2 on Processor 23
+19.47 minutes elapsed
+
+Completed run 2 of 2 on Processor 14
+5.71 minutes elapsed
+
+Completed run 2 of 2 on Processor 16
+3.42 minutes elapsed
+
+Completed run 2 of 2 on Processor 22
+10.06 minutes elapsed
+
+Completed run 1 of 2 on Processor 10
+19.75 minutes elapsed
+
+Completed run 1 of 2 on Processor 2
+19.83 minutes elapsed
+
+Completed run 1 of 2 on Processor 12
+19.88 minutes elapsed
+
+Completed run 2 of 2 on Processor 28
+4.67 minutes elapsed
+
+Completed run 1 of 2 on Processor 21
+20.00 minutes elapsed
+
+Completed run 2 of 2 on Processor 24
+13.61 minutes elapsed
+
+Completed run 2 of 2 on Processor 7
+11.98 minutes elapsed
+
+Completed run 2 of 2 on Processor 26
+10.81 minutes elapsed
+
+Completed run 2 of 2 on Processor 4
+13.16 minutes elapsed
+
+Completed run 1 of 2 on Processor 31
+20.84 minutes elapsed
+
+Completed run 1 of 1 on Processor 43
+20.86 minutes elapsed
+
+Completed run 1 of 1 on Processor 38
+21.00 minutes elapsed
+
+Completed run 1 of 2 on Processor 19
+21.12 minutes elapsed
+
+Completed run 1 of 2 on Processor 8
+21.49 minutes elapsed
+
+Completed run 1 of 2 on Processor 27
+21.49 minutes elapsed
+
+Completed run 1 of 1 on Processor 63
+21.55 minutes elapsed
+
+Completed run 2 of 2 on Processor 30
+4.44 minutes elapsed
+
+Completed run 1 of 1 on Processor 50
+21.64 minutes elapsed
+
+Completed run 2 of 2 on Processor 32
+10.49 minutes elapsed
+
+Completed run 2 of 2 on Processor 3
+5.74 minutes elapsed
+
+Completed run 2 of 2 on Processor 33
+6.70 minutes elapsed
+
+Completed run 1 of 2 on Processor 1
+22.17 minutes elapsed
+
+Completed run 1 of 1 on Processor 54
+22.23 minutes elapsed
+
+Completed run 2 of 2 on Processor 11
+5.43 minutes elapsed
+
+Completed run 2 of 2 on Processor 25
+7.66 minutes elapsed
+
+Completed run 2 of 2 on Processor 20
+6.27 minutes elapsed
+
+Completed run 2 of 2 on Processor 5
+7.16 minutes elapsed
+
+Completed run 2 of 2 on Processor 23
+5.05 minutes elapsed
+
+Completed run 2 of 2 on Processor 27
+3.28 minutes elapsed
+
+Completed run 2 of 2 on Processor 35
+6.50 minutes elapsed
+
+Completed run 2 of 2 on Processor 15
+7.80 minutes elapsed
+
+Completed run 2 of 2 on Processor 10
+6.05 minutes elapsed
+
+Completed run 2 of 2 on Processor 18
+6.76 minutes elapsed
+
+Completed run 2 of 2 on Processor 21
+6.05 minutes elapsed
+
+Completed run 2 of 2 on Processor 2
+6.25 minutes elapsed
+
+Completed run 2 of 2 on Processor 29
+9.26 minutes elapsed
+
+Completed run 2 of 2 on Processor 19
+5.57 minutes elapsed
+
+Completed run 2 of 2 on Processor 8
+5.34 minutes elapsed
+
+Completed run 2 of 2 on Processor 12
+7.39 minutes elapsed
+
+Completed run 2 of 2 on Processor 31
+8.76 minutes elapsed
+
+Completed run 2 of 2 on Processor 1
+7.99 minutes elapsed
+
+All ICA runs complete!
+30.14 minutes elapsed
+
+Checking and deleting small files.
+
+Renaming to sequential order completed.
+
+Adjustment completed
+
+Computing clusters...
+
+Distance matrix completed!
+1.18 minutes elapsed
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+
+Combining D matrix
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+Max Rank: 99
+14.12 seconds elapsed
+
+Clustering
+0.22 seconds elapsed
+
+Identified 82 clusters
+
+Loading individual S and A matrices
+15.93 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+1.01 seconds elapsed
+
+Writing files to ../Second_run_100_300/ica_runs/220
+0.48 seconds elapsed
+
+Complete!
+
+
+##################################
+# Computing dimension 240 of 300 #
+##################################
+
+Setting up...
+1.14 seconds elapsed
+
+Running ICA...
+
+Completed run 1 of 1 on Processor 49
+8.05 minutes elapsed
+
+Completed run 1 of 2 on Processor 23
+9.00 minutes elapsed
+
+Completed run 1 of 1 on Processor 40
+9.18 minutes elapsed
+
+Completed run 1 of 2 on Processor 8
+9.69 minutes elapsed
+
+Completed run 1 of 2 on Processor 25
+10.72 minutes elapsed
+
+Completed run 1 of 2 on Processor 6
+12.65 minutes elapsed
+
+Completed run 1 of 1 on Processor 43
+13.21 minutes elapsed
+
+Completed run 1 of 2 on Processor 28
+13.39 minutes elapsed
+
+Completed run 1 of 2 on Processor 12
+13.45 minutes elapsed
+
+Completed run 1 of 1 on Processor 47
+13.63 minutes elapsed
+
+Completed run 1 of 1 on Processor 60
+13.94 minutes elapsed
+
+Completed run 1 of 1 on Processor 46
+14.50 minutes elapsed
+
+Completed run 1 of 2 on Processor 7
+14.59 minutes elapsed
+
+Completed run 1 of 2 on Processor 10
+14.66 minutes elapsed
+
+Completed run 1 of 2 on Processor 22
+14.74 minutes elapsed
+
+Completed run 1 of 1 on Processor 62
+15.06 minutes elapsed
+
+Completed run 1 of 2 on Processor 4
+15.28 minutes elapsed
+
+Completed run 1 of 1 on Processor 63
+15.35 minutes elapsed
+
+Completed run 1 of 2 on Processor 32
+15.51 minutes elapsed
+
+Completed run 1 of 1 on Processor 53
+15.87 minutes elapsed
+
+Completed run 1 of 1 on Processor 41
+15.98 minutes elapsed
+
+Completed run 1 of 2 on Processor 24
+15.99 minutes elapsed
+
+Completed run 1 of 1 on Processor 59
+16.15 minutes elapsed
+
+Completed run 1 of 2 on Processor 14
+16.17 minutes elapsed
+
+Completed run 1 of 2 on Processor 31
+16.49 minutes elapsed
+
+Completed run 1 of 1 on Processor 45
+17.19 minutes elapsed
+
+Completed run 1 of 2 on Processor 19
+17.32 minutes elapsed
+
+Completed run 1 of 2 on Processor 3
+17.33 minutes elapsed
+
+Completed run 1 of 2 on Processor 15
+17.79 minutes elapsed
+
+Completed run 1 of 1 on Processor 54
+17.89 minutes elapsed
+
+Completed run 1 of 2 on Processor 9
+18.30 minutes elapsed
+
+Completed run 1 of 2 on Processor 1
+18.31 minutes elapsed
+
+Completed run 1 of 2 on Processor 20
+18.35 minutes elapsed
+
+Completed run 1 of 2 on Processor 5
+18.46 minutes elapsed
+
+Completed run 2 of 2 on Processor 8
+9.02 minutes elapsed
+
+Completed run 1 of 1 on Processor 44
+18.77 minutes elapsed
+
+Completed run 1 of 1 on Processor 55
+19.23 minutes elapsed
+
+Completed run 1 of 1 on Processor 57
+19.40 minutes elapsed
+
+Completed run 1 of 2 on Processor 16
+19.45 minutes elapsed
+
+Completed run 1 of 2 on Processor 17
+19.53 minutes elapsed
+
+Completed run 1 of 2 on Processor 11
+19.97 minutes elapsed
+
+Completed run 1 of 2 on Processor 26
+20.26 minutes elapsed
+
+Completed run 1 of 1 on Processor 36
+20.28 minutes elapsed
+
+Completed run 1 of 1 on Processor 48
+20.28 minutes elapsed
+
+Completed run 1 of 2 on Processor 18
+20.35 minutes elapsed
+
+Completed run 2 of 2 on Processor 22
+6.00 minutes elapsed
+
+Completed run 1 of 1 on Processor 50
+21.08 minutes elapsed
+
+Completed run 1 of 2 on Processor 35
+21.72 minutes elapsed
+
+Completed run 1 of 1 on Processor 52
+21.85 minutes elapsed
+
+Completed run 1 of 1 on Processor 39
+22.10 minutes elapsed
+
+Completed run 1 of 1 on Processor 58
+22.61 minutes elapsed
+
+Completed run 1 of 2 on Processor 34
+22.74 minutes elapsed
+
+Completed run 1 of 2 on Processor 27
+22.77 minutes elapsed
+
+Completed run 1 of 1 on Processor 37
+23.07 minutes elapsed
+
+Completed run 1 of 1 on Processor 51
+23.27 minutes elapsed
+
+Completed run 2 of 2 on Processor 14
+7.14 minutes elapsed
+
+Completed run 2 of 2 on Processor 25
+12.75 minutes elapsed
+
+Completed run 1 of 2 on Processor 33
+23.81 minutes elapsed
+
+Completed run 2 of 2 on Processor 23
+14.91 minutes elapsed
+
+Completed run 2 of 2 on Processor 5
+5.84 minutes elapsed
+
+Completed run 1 of 2 on Processor 30
+24.38 minutes elapsed
+
+Completed run 1 of 1 on Processor 38
+24.58 minutes elapsed
+
+Completed run 1 of 2 on Processor 21
+24.61 minutes elapsed
+
+Completed run 2 of 2 on Processor 26
+4.46 minutes elapsed
+
+Completed run 2 of 2 on Processor 10
+10.57 minutes elapsed
+
+Completed run 1 of 2 on Processor 0
+25.27 minutes elapsed
+
+Completed run 2 of 2 on Processor 4
+10.05 minutes elapsed
+
+Completed run 1 of 1 on Processor 42
+25.43 minutes elapsed
+
+Completed run 2 of 2 on Processor 32
+9.93 minutes elapsed
+
+Completed run 2 of 2 on Processor 3
+8.20 minutes elapsed
+
+Completed run 2 of 2 on Processor 7
+10.95 minutes elapsed
+
+Completed run 1 of 1 on Processor 61
+25.69 minutes elapsed
+
+Completed run 1 of 2 on Processor 13
+25.72 minutes elapsed
+
+Completed run 1 of 2 on Processor 29
+25.77 minutes elapsed
+
+Completed run 2 of 2 on Processor 1
+7.65 minutes elapsed
+
+Completed run 1 of 2 on Processor 2
+25.98 minutes elapsed
+
+Completed run 1 of 1 on Processor 56
+26.20 minutes elapsed
+
+Completed run 2 of 2 on Processor 20
+8.23 minutes elapsed
+
+Completed run 2 of 2 on Processor 18
+6.26 minutes elapsed
+
+Completed run 2 of 2 on Processor 9
+8.53 minutes elapsed
+
+Completed run 2 of 2 on Processor 31
+10.49 minutes elapsed
+
+Completed run 2 of 2 on Processor 28
+13.75 minutes elapsed
+
+Completed run 2 of 2 on Processor 24
+11.45 minutes elapsed
+
+Completed run 2 of 2 on Processor 16
+8.28 minutes elapsed
+
+Completed run 2 of 2 on Processor 27
+5.02 minutes elapsed
+
+Completed run 2 of 2 on Processor 6
+15.17 minutes elapsed
+
+Completed run 2 of 2 on Processor 19
+11.24 minutes elapsed
+
+Completed run 2 of 2 on Processor 35
+6.88 minutes elapsed
+
+Completed run 2 of 2 on Processor 33
+4.85 minutes elapsed
+
+Completed run 2 of 2 on Processor 12
+15.30 minutes elapsed
+
+Completed run 2 of 2 on Processor 21
+5.08 minutes elapsed
+
+Completed run 2 of 2 on Processor 30
+6.20 minutes elapsed
+
+Completed run 2 of 2 on Processor 34
+7.92 minutes elapsed
+
+Completed run 2 of 2 on Processor 11
+10.87 minutes elapsed
+
+Completed run 2 of 2 on Processor 13
+5.13 minutes elapsed
+
+Completed run 2 of 2 on Processor 17
+11.96 minutes elapsed
+
+Completed run 2 of 2 on Processor 15
+13.74 minutes elapsed
+
+Completed run 2 of 2 on Processor 2
+5.59 minutes elapsed
+
+Completed run 2 of 2 on Processor 0
+6.42 minutes elapsed
