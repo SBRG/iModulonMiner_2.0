@@ -7,7 +7,7 @@ This repository contains analysis workflows and data supporting the paper.
 ### Packages and Workflows
 
 - **MultiModulon package** (Python): [https://github.com/Gaoyuan-Li/multimodulon](https://github.com/Gaoyuan-Li/multimodulon) MultiModulon documentation: [https://multimodulon.readthedocs.io/en/latest/](https://multimodulon.readthedocs.io/en/latest/)
-- **MAPPED workflow** (expression data pipeline): [https://github.com/Gaoyuan-Li/MAPPED](https://github.com/Gaoyuan-Li/MAPPED)
+- **MAPPED workflow** (automated nextflow pipeline): [https://github.com/Gaoyuan-Li/MAPPED](https://github.com/Gaoyuan-Li/MAPPED)
 
 ---
 
