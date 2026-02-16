@@ -6,12 +6,8 @@ This repository contains analysis workflows and data supporting the paper.
 
 ### Packages and Workflows
 
-- **MultiModulon package** (Python): [https://github.com/Gaoyuan-Li/multimodulon](https://github.com/Gaoyuan-Li/multimodulon) MultiModulon documentation: [https://multimodulon.readthedocs.io/en/latest/](https://multimodulon.readthedocs.io/en/latest/)
-- **MAPPED workflow** (automated nextflow pipeline): [https://github.com/Gaoyuan-Li/MAPPED](https://github.com/Gaoyuan-Li/MAPPED)
-
----
-
-Below is the project file structure (including notebooks).
+- **MultiModulon package** (Python): [https://github.com/Gaoyuan-Li/multimodulon](https://github.com/Gaoyuan-Li/multimodulon), MultiModulon documentation: [https://multimodulon.readthedocs.io/en/latest/](https://multimodulon.readthedocs.io/en/latest/)
+- **MAPPED workflow** (an automated nextflow pipeline): [https://github.com/Gaoyuan-Li/MAPPED](https://github.com/Gaoyuan-Li/MAPPED)
 
 ---
 
@@ -19,7 +15,7 @@ Below is the project file structure (including notebooks).
 
 ```
 iModulonMiner_2.0/
-├── 1_MultiModulon_E_coli/              # MultiModulon on E. coli strains)
+├── 1_MultiModulon_E_coli/                # MultiModulon on E. coli strains
 │   ├── 1_Create_MultiModulon_object.ipynb
 │   ├── 2_Chracterizing_Core_iModulons.ipynb
 │   └── Input_Data/
@@ -36,7 +32,7 @@ iModulonMiner_2.0/
 │           ├── ref_genome/
 │           └── samplesheet/
 │
-├── 2_MultiModulon_Streptomyces/       # MultiModulon on Streptomyces
+├── 2_MultiModulon_Streptomyces/         # MultiModulon on Streptomyces
 │   ├── 1_Create_MultiModulon_object.ipynb
 │   ├── 2_Chracterizing_Core_iModulons.ipynb
 │   └── Input_Data/
@@ -49,7 +45,7 @@ iModulonMiner_2.0/
 │           ├── ref_genome/
 │           └── samplesheet/
 │
-├── 3_MultiModulon_Enterococcus/       # MultiModulon on Enterococcus
+├── 3_MultiModulon_Enterococcus/         # MultiModulon on Enterococcus
 │   ├── 1_Create_MultiModulon_object.ipynb
 │   ├── 2_Chracterizing_Core_iModulons.ipynb
 │   └── Input_Data/
@@ -62,7 +58,7 @@ iModulonMiner_2.0/
 │           ├── ref_genome/
 │           └── samplesheet/
 │
-├── 4_MultiModulon_Multi_Modality/     # MultiModulon on proteome + transcriptome
+├── 4_MultiModulon_Multi_Modality/       # MultiModulon on proteome + transcriptome
 │   ├── 1_Create_MultiModulon_object.ipynb
 │   ├── 2_Chracterizing_Core_iModulons.ipynb
 │   └── Data_Proteome_RNA/
@@ -75,12 +71,12 @@ iModulonMiner_2.0/
 │           ├── ref_genome/
 │           └── samplesheet/
 │
-├── 5_Single_cell/                    # Single-cell 
+├── 5_Single_cell/                      # Single-cell 
 │   ├── scanpy_CIP_iM_paperQC.ipynb
 │   ├── scanpy_CIP_iM_paperQC_violin.ipynb
 │   └── BBH/                         
 │
-├── 6_Community/                      # Community 
+├── 6_Community/                        # Community 
 │   ├── 1_iM_changes_basal.ipynb
 │   ├── 2_iM_PCA.ipynb
 │   ├── A_Matrices/                   
@@ -91,7 +87,7 @@ iModulonMiner_2.0/
 │   └── X_Matrices/                  
 │
 ├── 7_Single_View_and_Prior_Guided_Inference/
-│   ├── 1_RI-ICA/                     # Robust Iterative ICA
+│   ├── 1_RI-ICA/                       # Robust Iterative ICA
 │   │   ├── Prepare_X.ipynb
 │   │   ├── Prepare_Second_X_From_run_1.ipynb
 │   │   ├── Prepare_Third_X_From_run_2.ipynb
@@ -102,14 +98,14 @@ iModulonMiner_2.0/
 │   │   ├── Third_run_60_180/
 │   │   ├── Fourth_run_40_120/
 │   │   └── P1K_minicoli_removed/
-│   └── 2_SC-ALS/                     # Sparsity-Constrained ALS
+│   └── 2_SC-ALS/                       # Sparsity-Constrained ALS
 │       └── Sparsity_Constrained_ALS.ipynb
 │
-├── 8_Activation_Confidence/          # Activation confidence
+├── 8_Activation_Confidence/            # Activation confidence
 │   ├── A_confidence_P1K.ipynb
 │   └── A_confidence_case_study_plotting.ipynb
 │
-└── 9_Basal_Expression_Transformation/
-    ├── Basal_Expression_04192024.ipynb
-    └── Data_Basal_Expression/        # Basal Expression Transformation
+└── 9_Basal_Expression_Transformation/  # Basal Expression Transformation
+    ├── Basal_Activity_Transformation.ipynb
+    └── Data_Basal_Expression/        
 ```
